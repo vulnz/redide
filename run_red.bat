@@ -1,0 +1,1 @@
+start red.exe ide.red
