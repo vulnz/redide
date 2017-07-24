@@ -4,16 +4,27 @@ Red Programming Language IDE
 
 #  List of features
 Multitabs
+
 Examples
+
 Code loading
+
 Code saving
+
 Code running
+
 Compilation of code
+
 Font types
+
 Background colors
+
 Todo tab
+
 Clearing code
+
 Running Red IDE
+
 Installing and downloading Red and Rebel
 
 
